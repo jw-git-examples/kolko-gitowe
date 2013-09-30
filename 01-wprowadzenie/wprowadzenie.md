@@ -29,3 +29,11 @@ przykład zastosowania: przygotowywanie wspólnych notatek z przedmiotów
 niedzowne przy programowaniu
 
 kultura open source
+
+* kontrola wersji jest jak księgowość.  Można bez niej prowadzić działalność, ale prędzej czy później człowiek się gubi.
+
+
+do poczytania:
+http://git-scm.com/video/what-is-version-control
+http://chronicle.com/blogs/profhacker/a-gentle-introduction-to-version-control/23064
+http://git-scm.com/book/pl/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji

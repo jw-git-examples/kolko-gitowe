@@ -7,18 +7,29 @@ Kto już używał kontroli wersji?
 Kto używa Linuksa?
 Kto używa wiersza poleceń?
 
+Lista uczestników
+
 
 Co to jest kontrola wersji i po co ona komu
 -------------------------------------------
 
+Kto potrafi wyjaśnić, co to?
+
 * porównanie do Ctrl+Z
-1) wprowadzenie - po co komu kontrola wersji?  Przykłady.  Trochę historii
-   Cykl pracy: (http://git-scm.com/video/what-is-version-control)
-    - tworzenie
-    - zapisywanie
-    - edycja
-    - ponowne zapisywanie
-   Również te linki, które wysłałem Marlenie
+
+Kto poda jakiś przykład?
+
+* przykłady: wikipedia, google docs i dropbox
+* ogólnie, nasz cykl pracy wygląda tak:
+  - tworzenie
+  - zapisywanie
+  - edycja
+  - ponowne zapisywanie
+* Dlaczego robienie kopii z datami jest niedobre:
+  - jest ich za dużo i jednocześnie za mało
+  - łatwo przez przypadek się pomylić
+* szczególnie przydatna dla zespołów (przykład: jądro Linuksa)
+
 
 Ustalenie terminu
 -----------------
