@@ -1,0 +1,11 @@
+
+Kilka pytań żeby zorientować się w uczestnikach
+-----------------------------------------------
+
+Kto programuje?
+Kto używał kontroli wersji?
+Kto używa wiersza poleceń?
+Kto używa Linuxa?
+
+Co to jest kontrola wersji
+--------------------------

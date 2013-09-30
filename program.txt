@@ -1,0 +1,19 @@
+1) Wprowadzenie - po co komu kontrola wersji?  Przykłady.  Trochę historii.
+
+2) Co to jest repozytorium?  Idea działania programu.  Terminologia.
+
+3) Instalacja i konfiguracja.
+
+4) Wiersz poleceń vs. interfejsy graficzne.
+
+5) Podstawowe polecenia - zapamiętywanie plików.
+
+6) Oglądanie historii zmian.
+
+7) Używanie gałęzi do pracy równoległej.
+
+8) Praca w zespole.
+
+9) Zmienianie historii projektu.
+
+10) Zaawansowane sztuczki.
