@@ -1,4 +1,4 @@
-1) wprowadzenie - po co komu kontrola wersji
+1) wprowadzenie - po co komu kontrola wersji?  Przykłady.  Trochę historii
    Cykl pracy: (http://git-scm.com/video/what-is-version-control)
     - tworzenie
     - zapisywanie

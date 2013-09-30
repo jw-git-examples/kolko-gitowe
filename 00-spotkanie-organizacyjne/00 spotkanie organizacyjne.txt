@@ -2,10 +2,13 @@
 Kilka pytań żeby zorientować się w uczestnikach
 -----------------------------------------------
 
-Kto programuje?
-Kto używał kontroli wersji?
+Kto z Was programuje?
+Kto już używał kontroli wersji?
+Kto używa Linuksa?
 Kto używa wiersza poleceń?
-Kto używa Linuxa?
 
-Co to jest kontrola wersji
---------------------------
+
+Co to jest kontrola wersji i po co ona komu
+-------------------------------------------
+
+* porównanie do Ctrl+Z
