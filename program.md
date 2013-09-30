@@ -2,9 +2,9 @@
 
 01) Wprowadzenie - do czego to służy i z czym to się je.
 
-02) Co to jest repozytorium?  Idea działania programu.  Terminologia.
+02) Co to jest repozytorium?  Trochę terminologii.
 
-03) Instalacja i konfiguracja.
+03) Instalacja i konfiguracja gita.
 
 04) Wiersz poleceń vs. interfejsy graficzne.
 
