@@ -1,12 +1,5 @@
-1) wprowadzenie - po co komu kontrola wersji?  Przykłady.  Trochę historii
-   Cykl pracy: (http://git-scm.com/video/what-is-version-control)
-    - tworzenie
-    - zapisywanie
-    - edycja
-    - ponowne zapisywanie
-   Również te linki, które wysłałem Marlenie
 
-2) historia (CVS, SVN) - wspomnieć o prezentacji Linusa.  Mercurial i git
+2) historia (CVS, SVN) - wspomnieć o prezentacji Linusa.  Mercurial i git. Github.
 
 3) co to jest repozytorium, krótko o jego strukturze
 trochę tak jak savepointy w grze - program zapamiętuje, jak dane pliki wyglądały w danym momencie. 
@@ -16,9 +9,11 @@ n) indeks w gicie i różne sztuczki (git add --patch)
 jak zainstalować
 
 setup:
--
+- imię, email
+- przydatne ustawienia: polskie znaki
+można się zainspirować moim gitconfigiem.
 
-historia zmian - hashe, log, diff
+historia zmian - hashe, log, diff. log na plikach, opcje (-S, --grep -> nieco o wyrażeniach regularnych)
 
 szzzukanie pomocy do poleceń
 $ git help <verb>
@@ -37,9 +32,7 @@ interfejsy graficzne
 
 wiersz poleceń
 
-disclaimer o nieendorse'owaniu githuba
-
-Na początku zaczynamy od Githuba, wszyscy Forkują ode mnie repozytorium z notatkami i sami zaczynają w nim notować (potrzebne krótkie wprowadzenie do Markdowna, albo najlepiej instrukcja w repozytorium).  dopiero po poznaniu ogólnej zasady działania tego interesu przejdziemy do gita lokalnego, czyli z uzyciem interfejsu graficznego lub wiersza poleceń.
+dopiero po zapoznaniu z interfejsem webowym githuba przejdziemy do gita lokalnego, czyli z uzyciem interfejsu graficznego lub wiersza poleceń.
 
 Schemat repozytorium - jak najwięcej osobnych plików, żeby uniknąć merge conflictów.  Każde zajęcia w osobnym folderze.
 
